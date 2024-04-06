@@ -130,7 +130,8 @@ $Emp_Logo = GetEmpLogIndex();
                 <h3 class="h3 text-uppercase g-letter-spacing-3 g-font-size-default g-color-white g-mb-10">Nosotros somos</h3>
                 <h2 class="h2 text-uppercase g-color-white g-letter-spacing-5 g-font-weight-400 g-font-size-25 g-font-size-35--md g-mb-20">MERAKI</h2>
                 <p class="g-line-height-1_8 g-letter-spacing-3 g-color-white g-mb-20">
-                Desarrollo Organizacional, Capital Humano
+Capital Humano En Acción</p>
+                 <!--Desarrollo Organizacional, Capital Humano
                   <br> Desarrollo Personal y Wellnes</p>
                <!-- <a href="#" class="btn text-uppercase u-btn-outline-white rounded-0">Learn More</a>-->
               </div>
@@ -152,7 +153,8 @@ $Emp_Logo = GetEmpLogIndex();
                 <h2 class="h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-font-size-40 g-color-white g-mb-minus-10">¿Quiénes Somos?</h2>
               </div>
 
-              <p class="g-color-gray-light-v2 mb-0">Meraki Capital Humano en Acción, somos una unidad de negocio coformada por especialistas con amplia experiencia como consultores en temas relacionados al Desarrollo Organizacional, Recursos Humanos, Desarrollo Personal y Bienestar laboral . Brindamos el acompañamiento en todo el  proceso para minimizar el impacto de la rortación de personal  o potencializar el talento humano logrando mejores resultados. </p>
+              <!--<p class="g-color-gray-light-v2 mb-0">Meraki Capital Humano en Acción, somos una unidad de negocio coformada por especialistas con amplia experiencia como consultores en temas relacionados al Desarrollo Organizacional, Recursos Humanos, Desarrollo Personal y Bienestar laboral . Brindamos el acompañamiento en todo el  proceso para minimizar el impacto de la rortación de personal  o potencializar el talento humano logrando mejores resultados. </p>-->
+                <p class="g-color-gray-light-v2 mb-0">Nuestro equipo, compuesto por profesionales de diversas disciplinas, tiene como objetivo principal explorar opciones para la mejora continua. Esto lo logramos al aplicar metodologías innovadoras y fomentar propuestas colaborativas, trabajando juntos para alcanzar resultados óptimos.
             </div>
           </div>
           <div class="g-hidden-md-down col-lg-4 g-bg-img-hero" style="background-image: url(assets/img/inline2.png);"></div>
@@ -179,35 +181,35 @@ $Emp_Logo = GetEmpLogIndex();
                   <div >
                     <p class="g-color-gray-light-v2"> <img class="float-left w-3 mr-5" src="assets/img/imgt1.jpg" alt="Image description"></p>
                        <ul>
-                          <li class="g-color-gray-light-v2">Clima Laboral:</li>                            
-                              <p class="g-color-gray-light-v2">Conocer la percepcion de tus colaboradores 
-                                respecto al ambiente laboral, nos ayuda a tomar decisiones importantes lo cual 
+                          <li class="g-color-gray-light-v2">Clima Laboral:</li>
+                              <p class="g-color-gray-light-v2">Conocer la percepcion de tus colaboradores
+                                respecto al ambiente laboral, nos ayuda a tomar decisiones importantes lo cual
                                 influye en el desempeño y productividad. Nosotros te ayduamos a conocer el sentir de cada
-                                  integrante y establecer un plan de acción para mejorarlo. </p>                            
+                                  integrante y establecer un plan de acción para mejorarlo. </p>
                           <li class="g-color-gray-light-v2">Feefback 360:</li>
                               <p class="g-color-gray-light-v2">
-                              Herramienta que nos ayuda a medir de manera objetiva e integral el talento y rendimiento de sus 
+                              Herramienta que nos ayuda a medir de manera objetiva e integral el talento y rendimiento de sus
                               colaboradores basado en su conducta profesional a traves de sus competencias, rendimiento y productividad.
                               </p>
                           <li class="g-color-gray-light-v2">Desarrollo de Competencias:</li>
                               <p class="g-color-gray-light-v2">
-                              Alienados a los objetivos de tu empresa, establecemos metodologias para 
-                              potencializar las competencias y habilidades de tu personal, impactando de manera positiva 
-                              su desempeño y productividad, asi como la disminución en la rotación y mejorar la calidad 
-                              en el servicio al cliente. 
+                              Alienados a los objetivos de tu empresa, establecemos metodologias para
+                              potencializar las competencias y habilidades de tu personal, impactando de manera positiva
+                              su desempeño y productividad, asi como la disminución en la rotación y mejorar la calidad
+                              en el servicio al cliente.
                               </p>
                           <br>
                           <li class="g-color-gray-light-v2">KPI's:</li>
                               <p class="g-color-gray-light-v2">
-                              Lo que no se mide no se puede mejorar, es por ello que te ayudamos a establecer 
-                              tus indicadores de desempeño, alineados a los objetivos de tu organización, de esta manera podrás tomar decisiones, 
-                              medir el impacto de los resultados y medir el cumplimiento de los objetivos. 
+                              Lo que no se mide no se puede mejorar, es por ello que te ayudamos a establecer
+                              tus indicadores de desempeño, alineados a los objetivos de tu organización, de esta manera podrás tomar decisiones,
+                              medir el impacto de los resultados y medir el cumplimiento de los objetivos.
                               </p>
                           <li class="g-color-gray-light-v2">Team Building:</li>
                               <p class="g-color-gray-light-v2">
-                              A través de diversas actividades alineadas a un objetivo, logramos impactar de manera 
-                              positiva en la formación de equipos de alto rendimiento, mejorando las relaciones interpersonales, 
-                              fortaleciendo el compromiso de los colaboradores con la organización y mejorando el clima laboral. 
+                              A través de diversas actividades alineadas a un objetivo, logramos impactar de manera
+                              positiva en la formación de equipos de alto rendimiento, mejorando las relaciones interpersonales,
+                              fortaleciendo el compromiso de los colaboradores con la organización y mejorando el clima laboral.
                               </p>
                           </li>
                         </ul>
@@ -225,37 +227,37 @@ $Emp_Logo = GetEmpLogIndex();
                   <div >
                     <p class="g-color-gray-light-v2"> <img class="float-left w-3 mr-5" src="assets/img/imgt3.jpg" alt="Image description">
                     <ul>
-                          <li class="g-color-gray-light-v2">Rotacióm de Personal:</li>                            
-                              <p class="g-color-gray-light-v2">Encontramos la causa principal de la rotación de personal, 
-                                acompañada de un plan de acción para mitigar el impacto de ello, 
-                                asegurando bajar el porcentaje de rotación. </p>                            
+                          <li class="g-color-gray-light-v2">Rotacióm de Personal:</li>
+                              <p class="g-color-gray-light-v2">Encontramos la causa principal de la rotación de personal,
+                                acompañada de un plan de acción para mitigar el impacto de ello,
+                                asegurando bajar el porcentaje de rotación. </p>
                           <li class="g-color-gray-light-v2">Reclutamiento:</li>
                               <p class="g-color-gray-light-v2">
                               Encontramos el Talento que estás buscando alineado a tus necesidades y actividades propias de la vacante,
-                              asegurando que el candidato sea integro y cumpla todas las competencias necesarias para desempeñar de manera 
+                              asegurando que el candidato sea integro y cumpla todas las competencias necesarias para desempeñar de manera
                               correcta las actividades propias del puesto a ocupar.
                               </p>
                           <li class="g-color-gray-light-v2">Selección de talento:</li>
                               <p class="g-color-gray-light-v2">
-                              A través de diversos filtros, nos aseguramos que los candidatos seleccionados sean los más 
-                              apegados a las necesidades reales del puesto, garantizando su integridad y compromiso. 
+                              A través de diversos filtros, nos aseguramos que los candidatos seleccionados sean los más
+                              apegados a las necesidades reales del puesto, garantizando su integridad y compromiso.
                               </p>
                           <br><br>
                           <li class="g-color-gray-light-v2">Psicometría</li>
                               <p class="g-color-gray-light-v2">
-                              Apoyados en diversas herramientas, medimos la compatibilidad del candidato a la cultura de la organización, 
-                              asi como la medicion de sus competencias tecnicas y comportamentales, respaldados siempre por nuestros especialistas.  
+                              Apoyados en diversas herramientas, medimos la compatibilidad del candidato a la cultura de la organización,
+                              asi como la medicion de sus competencias tecnicas y comportamentales, respaldados siempre por nuestros especialistas.
                               </p>
                           <li class="g-color-gray-light-v2">Estudios Socioeconomicos:</li>
                               <p class="g-color-gray-light-v2">
-                              Nos permiten conocer varios aspectos de los candidatos y ratificar la información brindada por el candidato.  
+                              Nos permiten conocer varios aspectos de los candidatos y ratificar la información brindada por el candidato.
                               El estudio se lleva a cabo mediante investigaciones de campo con la más absoluta seriedad y discreción,
-                              al igual que el manejo de la información resultante. 
+                              al igual que el manejo de la información resultante.
                               </p>
                           </li>
                           <li class="g-color-gray-light-v2">Pruebas de Integridad:</li>
                               <p class="g-color-gray-light-v2">
-                              Nos ayuda a conocer la base de valores sobre los cuales un candidato se desempeña asi como su honestidad y confiabilidad. 
+                              Nos ayuda a conocer la base de valores sobre los cuales un candidato se desempeña asi como su honestidad y confiabilidad.
                               </p>
                           </li>
                         </ul>
@@ -264,17 +266,17 @@ $Emp_Logo = GetEmpLogIndex();
             </div>
 
             <div class="js-slide">
-            
+
               <div class="g-pa-30">
-                
+
                 <h3 class="text-uppercase g-font-weight-700 g-font-size-20 g-color-white g-mb-10">
                   Desarrollo Personal</h3>
-                  
+
                   <div >
                     <p class="g-color-gr ay-light-v2"> <img class="float-left w-3 mr-5" src="assets/img/imgt3.jpg" alt="Image description"></p>
                     <ul>
                           <li class="g-color-gray-light-v2">Capacitación:</li>
-                              <p class="g-color-gray-light-v2">Creamos planes de entrenamiento basadas en tus necesidades y presupuesto. </p>                            
+                              <p class="g-color-gray-light-v2">Creamos planes de entrenamiento basadas en tus necesidades y presupuesto. </p>
                           <li class="g-color-gray-light-v2">Plan de Desarrollo Integral:</li>
                               <p class="g-color-gray-light-v2">
                               Es un plan personal estructurado en el que, un vez identificada la opción profesional a la que se quiere aspirar,
@@ -287,21 +289,21 @@ $Emp_Logo = GetEmpLogIndex();
                           <br><br>
                           <li class="g-color-gray-light-v2">Engagement:</li>
                               <p class="g-color-gray-light-v2">
-                              Te ayudamos a definir estrategias de implementación desde la inducción para promover el compromiso 
+                              Te ayudamos a definir estrategias de implementación desde la inducción para promover el compromiso
                               e integración de todos tus colaboradores a la empresa.
-                              </p>                        
+                              </p>
                         </ul>
                   </div>
               </div>
             </div>
 
             <div class="js-slide">
-            
+
               <div class="g-pa-30">
-                
+
                 <h3 class="text-uppercase g-font-weight-700 g-font-size-20 g-color-white g-mb-10">
                   Wellnes</h3>
-                  
+
                   <div >
                     <p class="g-color-gr ay-light-v2"> <img class="float-left w-3 mr-5" src="assets/img/imgt3.jpg" alt="Image description"></p>
                     <ul>
@@ -310,17 +312,17 @@ $Emp_Logo = GetEmpLogIndex();
                                  dando seguimiento los factores de riesgo psicosocial, promoviendo un entorno organizacional favorable.</p>
                           <li class="g-color-gray-light-v2">Asesoría Psicologica:</li>
                               <p class="g-color-gray-light-v2">
-                              Cuidar de la salud emocional de tus colaboradores es muy importante, es por eso que te ofrecemos 
-                              asesoria psicologica para brindar acompañamiento en situaciones que generen un impacto emocional y 
+                              Cuidar de la salud emocional de tus colaboradores es muy importante, es por eso que te ofrecemos
+                              asesoria psicologica para brindar acompañamiento en situaciones que generen un impacto emocional y
                               por ende repercuta en el desempeño e integridad de tu personal.
                               </p>
                           <li class="g-color-gray-light-v2">Asesoría Clinica:</li>
                               <p class="g-color-gray-light-v2">
-                              Deribado de la NOM035 Te ayudamos a detectar casos de ansiedad, 
+                              Deribado de la NOM035 Te ayudamos a detectar casos de ansiedad,
                               estrés  y depresión que deben atenderse de manera segura y con toda la confidencialidad requerida,
-                               para garantizar un espacio seguro y bienestar de tus colaboradores. 
+                               para garantizar un espacio seguro y bienestar de tus colaboradores.
                               </p>
-                          <br><br>                          
+                          <br><br>
                         </ul>
                   </div>
               </div>
@@ -337,7 +339,7 @@ $Emp_Logo = GetEmpLogIndex();
           <p class="lead">Puestos recientemente disponibles</p>
         </header>
           <div class="row">
-<?php   
+<?php
   while ($oferta = $Ofertas_recientes->fetch_assoc()) {
 ?>
           <div class="col-lg-4 g-mb-30 g-mb-0--lg">
@@ -397,10 +399,10 @@ $Emp_Logo = GetEmpLogIndex();
             </article>
             <br>
             <!-- End Recent Jobs -->
-          </div>          
+          </div>
 <?php
-  } 
-?>  
+  }
+?>
           </div>
         </div>
       </section>
@@ -557,7 +559,7 @@ $Emp_Logo = GetEmpLogIndex();
                 <h3 class="text-uppercase g-font-size-default g-color-white-opacity-0_5 g-letter-spacing-1 g-mb-5">linkedin</h3>
                 <strong class="g-font-size-default g-color-white">Meraki</strong>
               </div>
-              
+
               <div class="col-sm-6 col-md-3 g-brd-top g-brd-top-none g-brd-left--md g-brd-primary g-px-15 g-py-30 g-py-0--md">
                 <i class="fa fa-tiktok d-inline-block g-font-size-50 g-color-primary g-mb-20"></i>
                 <h3 class="text-uppercase g-font-size-default g-color-white-opacity-0_5 g-letter-spacing-1 g-mb-5">tiktok</h3>
@@ -623,7 +625,7 @@ $Emp_Logo = GetEmpLogIndex();
 
         <div class="text-center g-color-gray-dark-v3 g-pa-30">
           <div class="g-width-600 mx-auto">
-            
+
               </div>
             </form>
 

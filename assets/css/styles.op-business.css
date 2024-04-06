@@ -47815,7 +47815,8 @@ input[type="radio"]:checked + * .g-theme-bg-blue-dark-v1--checked {
 }
 
 .g-theme-bg-blue-dark-v1-opacity-0_9 {
-  background-color: rgba(20, 17, 44, 0.9) !important;
+  /*background-color: rgba(20, 17, 44, 0.9) !important;*/
+  background-color: rgba(112, 116, 143, 0.9) !important;
 }
 
 .g-theme-bg-blue-dark-v2 {
