@@ -30,6 +30,7 @@
     <!-- CSS Template -->
     <link rel="stylesheet" href="assets/css/styles.op-business.css">
     <link rel="stylesheet" href="assets/css/unify.css">
+    <link rel="stylesheet" href="assets/css/flip.css">
 
     <!-- CSS Customization -->
     <link rel="stylesheet" href="assets/css/custom.css">
@@ -59,7 +60,7 @@ $Emp_Logo = GetEmpLogIndex();
               <!-- Logo -->
               <a href="#" class="js-go-to navbar-brand u-header__logo"
                  data-type="static">
-                <img class="u-header__logo-img u-header__logo-img--main mainlogo" width="150" src="assets/img/Logotipo-Meraki.png" alt="Image Description">
+                <img class="u-header__logo-img u-header__logo-img--main mainlogo" width="150" src="assets/img/Meraki1.png" alt="Image Description">
               </a>
               <!-- End Logo -->
 
@@ -119,8 +120,9 @@ $Emp_Logo = GetEmpLogIndex();
              data-fade="true"
              data-speed="5000">
           <div class="js-slide g-bg-img-hero g-height-100vh g-min-height-500--md" style="background-image: url(assets/img/imgc1.jpg);"></div>
-
           <div class="js-slide g-bg-img-hero g-height-100vh g-min-height-500--md" style="background-image: url(assets/img/imgc2.jpg);"></div>
+          <div class="js-slide g-bg-img-hero g-height-100vh g-min-height-500--md" style="background-image: url(assets/img/imgc3.jpg);"></div>
+
         </div>
 
         <div class="g-absolute-centered w-100">
@@ -144,40 +146,219 @@ Capital Humano En Acción</p>
       <!-- Section Content -->
       <section id="quienes" class="container-fluid px-0">
         <div class="row no-gutters">
-          <div class="g-hidden-md-down col-lg-4 g-bg-img-hero" style="background-image: url(assets/img/imgt2.jpg);"></div>
+          <div class="g-hidden-md-down col-lg-4 g-bg-img-hero" style="background-image: url(assets/img/inline1.jpg);"></div>
 
-          <div class="col-md-6 col-lg-4 g-flex-centered g-theme-bg-blue-dark-v1">
+          <div class="col-md-6 col-lg-4 g-flex-centered g-theme-bg-blue-dark-v1-opacity-0_9">
             <div class="text-center g-color-gray-light-v2 g-pa-30">
               <div class="text-uppercase u-heading-v2-4--bottom g-brd-primary g-mb-40">
-                <h4 class="h6 g-font-weight-800 g-font-size-12 g-letter-spacing-2 g-color-primary g-mb-20">Acerca de nosotros</br></br></br></br></h4>
+                <h4 class="h6 g-font-weight-800 g-font-size-12 g-letter-spacing-2 g-color-white g-mb-20">Acerca de nosotros</br></br></br></br></h4>
                 <h2 class="h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-font-size-40 g-color-white g-mb-minus-10">¿Quiénes Somos?</h2>
               </div>
 
               <!--<p class="g-color-gray-light-v2 mb-0">Meraki Capital Humano en Acción, somos una unidad de negocio coformada por especialistas con amplia experiencia como consultores en temas relacionados al Desarrollo Organizacional, Recursos Humanos, Desarrollo Personal y Bienestar laboral . Brindamos el acompañamiento en todo el  proceso para minimizar el impacto de la rortación de personal  o potencializar el talento humano logrando mejores resultados. </p>-->
                 <p class="g-color-gray-light-v2 mb-0">Nuestro equipo, compuesto por profesionales de diversas disciplinas, tiene como objetivo principal explorar opciones para la mejora continua. Esto lo logramos al aplicar metodologías innovadoras y fomentar propuestas colaborativas, trabajando juntos para alcanzar resultados óptimos.
+
+
+
+
+
+
+
+
+
+
+</p>
             </div>
           </div>
-          <div class="g-hidden-md-down col-lg-4 g-bg-img-hero" style="background-image: url(assets/img/inline2.png);"></div>
-      
+          <div class="g-hidden-md-down col-lg-4 g-bg-img-hero" style="background-image: url(assets/img/inline2.jpg);"></div>
+
         </div>
       </section>
       <!-- End Section Content -->
 
       <!-- Section Content -->
       <section id="servicios" class="g-py-6">
-       
+
+        <div class="container-fluid row no-gutters px-0">
+
+          <div class="col-sm">
+          <div class="flip-card">
+          <div class="flip-card-inner">
+            <div class="flip-card-front">
+              <h1 class="g-font-weight-700 g-font-size-20 g-color-white g-mb-10">Calidad</h1>
+              <img class="w-3 mr-5" src="assets/img/Servicios/Calidad1.jpg" alt="Image description">
+            </div>
+            <div class="flip-card-back">
+              <h1 class="g-font-weight-700 g-font-size-20 g-color-white g-mb-10">Calidad</h1>
+
+                          <h5>Alineación a certificaciones ISO 9001-2015</h5>
+                              <p>Conocer la percepcion de tus colaboradores
+                                respecto al ambiente laboral, nos ayuda a tomar decisiones importantes lo cual
+                                influye en el desempeño y productividad. Nosotros te ayduamos a conocer el sentir de cada
+                                  integrante y establecer un plan de acción para mejorarlo. </p>
+                          <h5>OEA</h5>
+                              <p>
+                              Herramienta que nos ayuda a medir de manera objetiva e integral el talento y rendimiento de sus
+                              colaboradores basado en su conducta profesional a traves de sus competencias, rendimiento y productividad.
+                              </p>
+
+            </div>
+          </div>
+        </div></div>
+
+          <div class="col-sm">
+          <div class="flip-card">
+          <div class="flip-card-inner">
+            <div class="flip-card-front">
+              <h1 class="g-font-weight-700 g-font-size-20 g-color-white g-mb-10">Juridico</h1>
+              <img class="w-3 mr-5" src="assets/img/Servicios/Juridico1.jpg" alt="Image description">
+            </div>
+            <div class="flip-card-back">
+              <h1 class="g-font-weight-700 g-font-size-20 g-color-white g-mb-10">Juridico</h1>
+              <p>El derecho laboral o derecho del trabajo es el conjunto de normas que regulan la relación entre los trabajadores y el patrón o empresario. Este conjunto de leyes abordan aspectos fundamentales de la relación laboral. Por ejemplo: el contrato de trabajo, los límites de la jornada laboral, la protección de la salud, el salario, los días de descanso, las vacaciones o el despido. <br>
+
+Hoy en día, es habitual dar por sentados ciertos aspectos de la relación laboral entre los trabajadores y sus empleadores, como que el número de horas máximo que según la ley puede laborar una persona en México se de 48 horas. Sin embargo, los derechos y obligaciones laborales no han existido siempre. <br>
+
+La Revolución Industrial que arrancó a finales del siglo XVIII en Inglaterra y se fue extendiendo por toda Europa supuso un punto de inflexión en la forma en que se producían los bienes y en las relaciones entre empresarios y trabajadores. Las tensiones derivadas de la industrialización por las duras condiciones de las fábricas y los abusos de los empresarios cristalizaron, en distintos momentos, en la regulación jurídica de esta relación.</p>
+            </div>
+          </div>
+        </div>
+        </div>
+          <div class="col-sm">
+          <div class="flip-card">
+          <div class="flip-card-inner">
+            <div class="flip-card-front">
+              <h1 class="g-font-weight-700 g-font-size-20 g-color-white g-mb-10">Bienestar</h1>
+              <img class="w-3 mr-5" src="assets/img/Servicios/Bienestar1.jpg" alt="Image description">
+            </div>
+            <div class="flip-card-back">
+              <h1 class="g-font-weight-700 g-font-size-20 g-color-white g-mb-10">Bienestar</h1>
+              <p> Son todas las medidas empresariales planificadas, que motivan a los servidores docentes y directivos docentes a alcanzar por voluntad propia determinados objetivos y les estimula a ejercer una mayor actividad y a obtener mejores resultados en su labor.</p>
+              <p>Contar con un óptimo bienestar laboral trae una serie de beneficios: Disminuye el estrés y el absentismo. Los equipos de trabajo se sienten más motivados, por tanto son más productivos. Las capacidades del personal se ven aumentadas.</p>
+            </div>
+          </div>
+        </div></div>
+
+          <div class="col-sm">
+          <div class="flip-card">
+          <div class="flip-card-inner">
+            <div class="flip-card-front">
+              <h1 class="g-font-weight-700 g-font-size-20 g-color-white g-mb-10">Desarrollo Personal</h1>
+              <img class="w-3 mr-5" src="assets/img/Servicios/Desarrolloprof1.jpg" alt="Image description">
+            </div>
+            <div class="flip-card-back">
+              <h1 class="g-font-weight-700 g-font-size-20 g-color-white g-mb-10">Desarrollo Personal</h1>
+              <p>El desarrollo personal en el trabajo, como sucede fuera de él o al margen de su influencia, debe ser entendido como lo que es: un proceso continuo de descubrimiento, elaboración, perfeccionamiento, adquisición de habilidades y conocimientos, construcción de la identidad.</p>
+
+              <p>Por qué es importante el desarrollo profesional y personal? <br>
+Implica la mejora continua de las capacidades de un empleado a lo largo del tiempo, con el objetivo de aumentar su efectividad en el trabajo y su potencial de progreso.</p>
+
+            </div>
+          </div>
+        </div></div>
+
+        </div>
+
+        <div class="container-fluid row no-gutters px-0">
+          <div class="col-sm">
+          <div class="flip-card">
+          <div class="flip-card-inner">
+            <div class="flip-card-front">
+              <h1 class="g-font-weight-700 g-font-size-20 g-color-white g-mb-10">DESARROLLO ORGANIZACIONAL</h1>
+              <img class="w-3 mr-5" src="assets/img/Servicios/Desarrolloworg1.jpg" alt="Image description">
+              <!--<img  class="img-thumbnail" src="assets/img/imgt1.jpg" alt="Avatar">-->
+            </div>
+            <div class="flip-card-back">
+              <h1 class="g-font-weight-700 g-font-size-20 g-color-white g-mb-10">DESARROLLO ORGANIZACIONAL</h1>
+              <ul>
+                          Clima Laboral:
+                              <p >Conocer la percepcion de tus colaboradores
+                                respecto al ambiente laboral, nos ayuda a tomar decisiones importantes lo cual
+                                influye en el desempeño y productividad. Nosotros te ayduamos a conocer el sentir de cada
+                                  integrante y establecer un plan de acción para mejorarlo. </p>
+                          Feefback 360:
+                              <p>
+                              Herramienta que nos ayuda a medir de manera objetiva e integral el talento y rendimiento de sus
+                              colaboradores basado en su conducta profesional a traves de sus competencias, rendimiento y productividad.
+                              </p>
+                          Desarrollo de Competencias:
+                              <p>
+                              Alienados a los objetivos de tu empresa, establecemos metodologias para
+                              potencializar las competencias y habilidades de tu personal, impactando de manera positiva
+                              su desempeño y productividad, asi como la disminución en la rotación y mejorar la calidad
+                              en el servicio al cliente.
+                              </p>
+                          <br>
+                          <li>KPI's:</li>
+                              <p>
+                              Lo que no se mide no se puede mejorar, es por ello que te ayudamos a establecer
+                              tus indicadores de desempeño, alineados a los objetivos de tu organización, de esta manera podrás tomar decisiones,
+                              medir el impacto de los resultados y medir el cumplimiento de los objetivos.
+                              </p>
+                          Team Building:
+                              <p>
+                              A través de diversas actividades alineadas a un objetivo, logramos impactar de manera
+                              positiva en la formación de equipos de alto rendimiento, mejorando las relaciones interpersonales,
+                              fortaleciendo el compromiso de los colaboradores con la organización y mejorando el clima laboral.
+                              </p>
+                          </li>
+                        </ul>
+            </div>
+          </div>
+        </div></div>
+          <div class="col-sm">
+          <div class="flip-card">
+          <div class="flip-card-inner">
+            <div class="flip-card-front">
+              <h1 class="g-font-weight-700 g-font-size-20 g-color-white g-mb-10">Seguridad</h1>
+              <img class="w-3 mr-5" src="assets/img/Servicios/Seguridad1.jpg" alt="Image description">
+            </div>
+            <div class="flip-card-back">
+              <h1 class="g-font-weight-700 g-font-size-20 g-color-white g-mb-10">Seguridad</h1>
+              <p>La seguridad y salud laboral es un área multidisciplinar relacionada con la seguridad, salud y la calidad de vida de las personas en la ocupación. La seguridad y salud ocupacionales también protege toda persona que pueda verse afectada por el ambiente ocupacional</p>
+              <p>Es el conjunto de acciones que aplicadas a los procesos productivos, al trabajo con máquinas, a las instalaciones y hasta a los hábitos del trabajador, pueden prevenir y evitar accidentes de trabajo.</p>
+
+            </div>
+          </div>
+        </div>
+        </div>
+          <div class="col-sm">
+          <div class="flip-card">
+          <div class="flip-card-inner">
+            <div class="flip-card-front">
+              <h1 class="g-font-weight-700 g-font-size-20 g-color-white g-mb-10">Juridico</h1>
+              <img class="w-3 mr-5" src="assets/img/Servicios/Juridico1.jpg" alt="Image description">
+            </div>
+            <div class="flip-card-back">
+              <h1 class="g-font-weight-700 g-font-size-20 g-color-white g-mb-10">Juridico</h1>
+
+              <p>El derecho laboral o derecho del trabajo es el conjunto de normas que regulan la relación entre los trabajadores y el patrón o empresario. Este conjunto de leyes abordan aspectos fundamentales de la relación laboral. Por ejemplo: el contrato de trabajo, los límites de la jornada laboral, la protección de la salud, el salario, los días de descanso, las vacaciones o el despido. <br>
+
+Hoy en día, es habitual dar por sentados ciertos aspectos de la relación laboral entre los trabajadores y sus empleadores, como que el número de horas máximo que según la ley puede laborar una persona en México se de 48 horas. Sin embargo, los derechos y obligaciones laborales no han existido siempre. <br>
+
+La Revolución Industrial que arrancó a finales del siglo XVIII en Inglaterra y se fue extendiendo por toda Europa supuso un punto de inflexión en la forma en que se producían los bienes y en las relaciones entre empresarios y trabajadores. Las tensiones derivadas de la industrialización por las duras condiciones de las fábricas y los abusos de los empresarios cristalizaron, en distintos momentos, en la regulación jurídica de esta relación.</p>
+
+            </div>
+          </div>
+        </div></div>
+
+
+        </div>
+
+<!--
+
         <div class="col-md-2 col-lg-12 g-theme-bg-blue-dark-v2">
           <div class="js-carousel g-pb-90"
                data-infinite="true"
                data-slides-show="true"
                data-pagi-classes="u-carousel-indicators-v1 g-absolute-centered--x g-bottom-30">
             <div class="js-slide">
-            
+
               <div class="g-pa-30">
-                
+
                 <h3 class="text-uppercase g-font-weight-700 g-font-size-20 g-color-white g-mb-10">
                   Desarrollo Organizacional</h3>
-                  
+
                   <div >
                     <p class="g-color-gray-light-v2"> <img class="float-left w-3 mr-5" src="assets/img/imgt1.jpg" alt="Image description"></p>
                        <ul>
@@ -218,12 +399,12 @@ Capital Humano En Acción</p>
             </div>
 
             <div class="js-slide">
-            
+
               <div class="g-pa-30">
-                
+
                 <h3 class="text-uppercase g-font-weight-700 g-font-size-20 g-color-white g-mb-10">
                  Capital Humano</h3>
-                  
+
                   <div >
                     <p class="g-color-gray-light-v2"> <img class="float-left w-3 mr-5" src="assets/img/imgt3.jpg" alt="Image description">
                     <ul>
@@ -264,6 +445,9 @@ Capital Humano En Acción</p>
                   </div>
               </div>
             </div>
+
+            </div>
+
 
             <div class="js-slide">
 
@@ -327,6 +511,8 @@ Capital Humano En Acción</p>
                   </div>
               </div>
             </div>
+
+          -->
 
       </section>
       <!-- End Section Content -->
@@ -415,9 +601,9 @@ Capital Humano En Acción</p>
         <div class="g-hidden-md-down col-lg-4 col-xl-5 g-min-height-360 g-bg-img-hero" data-bg-img-src="assets/img/imgd1.jpg"></div>
         <!-- End Info Image -->
 
-        <div class="col-xl-7 col-lg-8 g-theme-bg-blue-dark-v1 g-pt-100 g-pb-80 g-px-15 g-px-40--md">
+        <div class="col-xl-7 col-lg-8 g-theme-bg-blue-dark-v1-opacity-0_9 g-pt-100 g-pb-80 g-px-15 g-px-40--md">
           <header class="text-uppercase u-heading-v2-4--bottom g-brd-primary g-mb-40">
-            <h4 class="h6 g-font-weight-800 g-font-size-12 g-letter-spacing-2 g-color-primary g-mb-20">¿Cómo Trabajamos?</h4>
+            <h4 class="h6 g-font-weight-800 g-font-size-12 g-letter-spacing-2 g-color-white g-mb-20">¿Cómo Trabajamos?</h4>
             <h2 class="h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-font-size-40 g-color-white g-mb-minus-10">Aspectos que tomamos encuenta para una evaluación</h2>
           </header>
 
@@ -517,7 +703,9 @@ Capital Humano En Acción</p>
                    "slidesToShow": 2
                  }
                }]'>
+
 <?php
+/*
   while ($Logo = $Emp_Logo ->fetch_assoc()) {
 
       echo "<div class='js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1'>
@@ -525,21 +713,50 @@ Capital Humano En Acción</p>
             </div>";
 
   }
+  */
 ?>
           </div>
 
-          <p class="g-mb-35"> <!--Puedo agregar un texto aqui--> </p>
 
-         <!-- <a class="btn btn-md text-uppercase u-btn-primary rounded-0 g-px-15" href="#">Projects</a>-->
-        </div>
+<!--
+Empresas
+-->
+
+<div class="empslider container-fluid text-center">
+  <input type="radio" name="position"  />
+  <input type="radio" name="position" />
+  <input type="radio" name="position"checked />
+  <input type="radio" name="position" />
+  <input type="radio" name="position" />
+  <main id="empslider2">
+    <div class="item">
+    <img class="u-header__logo-img u-header__logo-img--main mainlogo" width="150" src="assets/img/Empresa3.jpg" alt="Image Description">
+  </div>
+    <div class="item">
+      <img class="u-header__logo-img u-header__logo-img--main mainlogo" width="150" src="assets/img/Empresa2.jpg" alt="Image Description">
+    </div>
+    <div class="item">
+    <img class="u-header__logo-img u-header__logo-img--main mainlogo" width="150" src="assets/img/Empresa1.jpg" alt="Image Description">
+  </div>
+    <div class="item">
+    <img class="u-header__logo-img u-header__logo-img--main mainlogo" width="150" src="assets/img/Empresa4.jpg" alt="Image Description">
+  </div>
+    <div class="item">
+    <img class="u-header__logo-img u-header__logo-img--main mainlogo" width="150" src="assets/img/Empresa5.jpg" alt="Image Description">
+  </div>
+    <main>
+</div>
+<!--
+Empresas
+-->
       </section>
       <!-- End Clients -->
 
       <footer>
-        <div id="contacto" class="text-center g-color-gray-light-v2 g-theme-bg-blue-dark-v1 g-py-80">
+        <div id="contacto" class="text-center g-color-gray-light-v2 g-theme-bg-blue-dark-v1-opacity-0_9 g-py-80">
           <div class="container g-width-780 g-mb-60">
             <div class="text-uppercase u-heading-v2-4--bottom g-brd-primary g-mb-45">
-              <h4 class="h6 g-font-weight-800 g-font-size-12 g-letter-spacing-2 g-color-primary g-mb-20">Contacto</h4>
+              <h4 class="h6 g-font-weight-800 g-font-size-12 g-letter-spacing-2 g-color-white g-mb-20">Contacto</h4>
               <h2 class="h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-font-size-40 g-color-gray-light-v2 g-mb-minus-10">Contáctanos</h2>
             </div>
 
@@ -549,25 +766,25 @@ Capital Humano En Acción</p>
           <div class="container">
             <div class="row">
               <div class="col-sm-6 col-md-3 g-px-15 g-py-30 g-py-0--md">
-                <i class="fa fa-instagram d-inline-block g-font-size-50 g-color-primary g-mb-20"></i>
+                <i class="fa fa-instagram d-inline-block g-font-size-50 g-color-white g-mb-20"></i>
                 <h3 class="text-uppercase g-font-size-default g-color-white-opacity-0_5 g-letter-spacing-1 g-mb-5">Instagram</h3>
                 <strong class="g-font-size-default g-color-white">themeraki2020</strong>
               </div>
 
               <div class="col-sm-6 col-md-3 g-brd-top g-brd-top-none g-brd-left--md g-brd-primary g-px-15 g-py-30 g-py-0--md">
-                <i class="fa fa-linkedin d-inline-block g-font-size-50 g-color-primary g-mb-20"></i>
+                <i class="fa fa-linkedin d-inline-block g-font-size-50 g-color-white g-mb-20"></i>
                 <h3 class="text-uppercase g-font-size-default g-color-white-opacity-0_5 g-letter-spacing-1 g-mb-5">linkedin</h3>
                 <strong class="g-font-size-default g-color-white">Meraki</strong>
               </div>
 
               <div class="col-sm-6 col-md-3 g-brd-top g-brd-top-none g-brd-left--md g-brd-primary g-px-15 g-py-30 g-py-0--md">
-                <i class="fa fa-tiktok d-inline-block g-font-size-50 g-color-primary g-mb-20"></i>
+                <i class="fa fa-tiktok d-inline-block g-font-size-50 g-color-white g-mb-20"></i>
                 <h3 class="text-uppercase g-font-size-default g-color-white-opacity-0_5 g-letter-spacing-1 g-mb-5">tiktok</h3>
                 <a class="g-font-size-default g-color-white" href="mailto:info@unify.com"><strong>Meraki</strong></a>
               </div>
 
               <div class="col-sm-6 col-md-3 g-brd-top g-brd-top-none g-brd-left--md g-brd-primary g-px-15 g-py-30 g-py-0--md">
-                <i class="fa fa-facebook d-inline-block g-font-size-50 g-color-primary g-mb-20"></i>
+                <i class="fa fa-facebook d-inline-block g-font-size-50 g-color-white g-mb-20"></i>
                 <h3 class="text-uppercase g-font-size-default g-color-white-opacity-0_5 g-letter-spacing-1 g-mb-5">Facebook</h3>
                 <strong class="g-font-size-default g-color-white">MerakiConsultoriaRH</strong>
               </div>
@@ -578,27 +795,27 @@ Capital Humano En Acción</p>
         <!-- Icon Blocks -->
         <ul class="row no-gutters list-inline g-mb-0">
           <li class="col list-inline-item g-mr-0">
-            <a class="d-block g-theme-bg-blue-dark-v3 g-color-gray-dark-v5 g-bg-primary--hover g-color-white--hover g-font-size-default text-center g-pa-15" href="#">
+            <a class="d-block g-theme-bg-blue-dark-v3 g-color-white g-bg-primary--hover g-color-white--hover g-font-size-default text-center g-pa-15" href="#">
               <i class="fa fa-twitter"></i>
             </a>
           </li>
           <li class="col list-inline-item g-mr-0">
-            <a class="d-block g-theme-bg-blue-dark-v2 g-color-gray-dark-v5 g-bg-primary--hover g-color-white--hover g-font-size-default text-center g-pa-15" href="#">
+            <a class="d-block g-theme-bg-blue-dark-v2 g-color-white g-bg-primary--hover g-color-white--hover g-font-size-default text-center g-pa-15" href="#">
               <i class="fa fa-linkedin"></i>
             </a>
           </li>
           <li class="col list-inline-item g-mr-0">
-            <a class="d-block g-theme-bg-blue-dark-v3 g-color-gray-dark-v5 g-bg-primary--hover g-color-white--hover g-font-size-default text-center g-pa-15" href="#">
+            <a class="d-block g-theme-bg-blue-dark-v3 g-color-white g-bg-primary--hover g-color-white--hover g-font-size-default text-center g-pa-15" href="#">
               <i class="fa fa-facebook"></i>
             </a>
           </li>
           <li class="col list-inline-item g-mr-0">
-            <a class="d-block g-theme-bg-blue-dark-v2 g-color-gray-dark-v5 g-bg-primary--hover g-color-white--hover g-font-size-default text-center g-pa-15" href="#">
+            <a class="d-block g-theme-bg-blue-dark-v2 g-color-white g-bg-primary--hover g-color-white--hover g-font-size-default text-center g-pa-15" href="#">
               <i class="fa fa-instagram"></i>
             </a>
           </li>
           <li class="col list-inline-item">
-            <a class="d-block g-theme-bg-blue-dark-v3 g-color-gray-dark-v5 g-bg-primary--hover g-color-white--hover g-font-size-default text-center g-pa-15" href="#">
+            <a class="d-block g-theme-bg-blue-dark-v3 g-color-white g-bg-primary--hover g-color-white--hover g-font-size-default text-center g-pa-15" href="#">
               <i class="fa fa-google-plus"></i>
             </a>
           </li>
