@@ -8364,6 +8364,11 @@ body .u-icon-v5 {
   background: #3949a0;
 }
 
+
+.u-icon-block--hover:hover .g-bg-primary--hover2 {
+  background: #9f9fb2 !important;
+}
+
 .u-icon-block--hover:hover .g-color-white--hover {
   color: #fff;
 }
@@ -47815,7 +47820,8 @@ input[type="radio"]:checked + * .g-theme-bg-blue-dark-v1--checked {
 }
 
 .g-theme-bg-blue-dark-v1-opacity-0_9 {
-  background-color: rgba(20, 17, 44, 0.9) !important;
+  /*background-color: rgba(20, 17, 44, 0.9) !important;*/
+  background-color: rgba(155, 143, 196, 0.9) !important;
 }
 
 .g-theme-bg-blue-dark-v2 {
