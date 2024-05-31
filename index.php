@@ -916,5 +916,31 @@ Empresas
     </script>
 
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAtt1z99GtrHZt_IcnK-wryNsQ30A112J0&callback=initMap" async></script>
+
+    <script>
+  // Function to check checkboxes one by one every 5 seconds
+  function checkOneByOne() {
+    var checkboxes = document.querySelectorAll('input[type="radio"]');
+    var i = 2;
+    var intervalId = setInterval(function() {
+      checkboxes.forEach(function(checkbox) {
+        checkbox.checked = false; // Uncheck all checkboxes
+      });
+      checkboxes[i].checked = true; // Check the current checkbox
+      i++;
+      if (i >= checkboxes.length) {
+        i = 0; // Reset the index to start over
+      }
+    }, 3000);
+  }
+
+
+  // Call the function when the page is loaded
+  window.onload = function() {
+    checkOneByOne();
+  };
+</script>
+
+
   </body>
 </html>
